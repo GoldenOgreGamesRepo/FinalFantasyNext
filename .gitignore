@@ -1,0 +1,9 @@
+/toolchain/
+/external/SFML/bin/
+/external/SFML/lib/*-d.a
+/external/SFML/lib/*-s.a
+/external/SFML/lib/*-s-d.a
+
+/build/
+*.dll
+*.exe
